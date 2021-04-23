@@ -1,0 +1,37 @@
+{
+    "result": "success",
+    "datas": [
+        {
+            "bargeBoatId": "c02020010202001",
+            "bargeBoatNm": "バージ船A1"
+        },
+        {
+            "bargeBoatId": "c02020010202002",
+            "bargeBoatNm": "バージ船A2"
+        },
+        {
+            "bargeBoatId": "c02020010202004",
+            "bargeBoatNm": "バージ船A4"
+        },
+        {
+            "bargeBoatId": "c02020010202005",
+            "bargeBoatNm": "バージ船A5"
+        },
+        {
+            "bargeBoatId": "c02020020202006",
+            "bargeBoatNm": "バージ船A6"
+        },
+        {
+            "bargeBoatId": "c02020010202007",
+            "bargeBoatNm": "バージ船A7"
+        },
+        {
+            "bargeBoatId": "c02020010202008",
+            "bargeBoatNm": "バージ船A8"
+        },
+        {
+            "bargeBoatId": "c02020010202009",
+            "bargeBoatNm": "バージ船A9"
+        }
+    ]
+}

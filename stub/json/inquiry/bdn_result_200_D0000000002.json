@@ -1,0 +1,109 @@
+{
+    "result": "success",
+    "datas": [
+        {
+            "bdnNo": "D0000000002",
+            "issuedCompanyId": "BPC00002",
+            "issuedCompanyNm": "BDN発行株式会社2",
+            "issuedCompanyAddr1": "愛知県名古屋市",
+            "shipperCompanyId": "a0202004",
+            "shipperCompanyNm": "無償船会社4",
+            "shipId": "S00000000000002",
+            "shipNm": "ジョイデス・リゾリューション号",
+            "officialNo": "IMO0002",
+            "shipTel": "07058962900",
+            "portId": "P00006",
+            "portNm": "神戸",
+            "deliveryDate": "TODAY",
+            "deliveryStartDateTime": "",
+            "deliveryEndDateTime": "",
+            "bargeCompanyId": "OS0055",
+            "bargeCompanyNm": "バージ会社A",
+            "entrustBargeCompanyId": "OS0030",
+            "entrustBargeCompanyNm": "委託会社B",
+            "bargeBoat1Id": "BS0000000000001",
+            "bargeBoat1Nm": "バージ船1",
+            "bargeBoat2Id": "",
+            "bargeBoat2Nm": "",
+            "eta": "TODAY 15:00",
+            "etb": "TODAY 16:00",
+            "etd": "TODAY 17:00",
+            "deliveryPlace": "L15",
+            "deliveryInstruction": "これは2件目の補油指示です。全文取得できているか確認してください。",
+            "bunkerOilList": [
+                {
+                    "productId": "F0035",
+                    "productNm": "C重油",
+                    "qty": "1230",
+                    "unitId": "U1",
+                    "unitNm": "KL",
+                    "makerNm": "ENEOS",
+                    "shippingPlace": "広島"
+                },
+                {
+                    "productId": "F0060",
+                    "productNm": "0.7A重油",
+                    "qty": "300.125",
+                    "unitId": "U1",
+                    "unitNm": "KL",
+                    "makerNm": "昭和シェル",
+                    "shippingPlace": "敦賀"
+                }
+            ],
+            "lubeList": [
+                {
+                    "productId": "L0030",
+                    "productNm": "B－215(潤滑油)",
+                    "packingId": "BK",
+                    "packingNm": "バルク",
+                    "calcedQty": "80",
+                    "convertQty": "1",
+                    "convertUnitNm": "L",
+                    "convertUnitId": "U0",
+                    "qty": "80",
+                    "unitId": "U5",
+                    "unitNm": "缶"
+                },
+                {
+                    "productId": "L0145",
+                    "productNm": "T－103(潤滑油)",
+                    "packingId": "ZZ",
+                    "packingNm": "その他",
+                    "calcedQty": "400",
+                    "convertQty": "200",
+                    "convertUnitNm": "L",
+                    "convertUnitId": "U0",
+                    "qty": "2",
+                    "unitId": "U5",
+                    "unitNm": "缶"
+                },
+                {
+                    "productId": "lube001",
+                    "productNm": "潤滑油A",
+                    "packingId": "DM",
+                    "packingNm": "ドラム缶",
+                    "calcedQty": "2000",
+                    "convertQty": "200",
+                    "convertUnitNm": "KL",
+                    "convertUnitId": "01",
+                    "qty": "10",
+                    "unitId": "01",
+                    "unitNm": "KL"
+                }
+            ],
+            "equipmentList": [],
+            "signFile": "",
+            "signFileNm": "",
+            "signedDateTime": "TODAY 12:12:11",
+            "signedLatitude": "34.61902",
+            "signedLongitude": "135.1682",
+            "approvalDate": "YESTERDAY",
+            "remark": "吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕えて煮て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落ちついて書生の顔を見たのがいわゆる人間というものの見始であろう。この時妙なものだと思った感じが今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。その後猫にもだいぶ逢ったがこんな片輪には一度も出会わした事がない。のみならず顔の真中があまりに突起している。そうしてその穴の中から時々ぷうぷうと煙を吹く。どうも咽せぽくて実に弱った。これが人間の飲む煙草というものである事はようやくこの頃知った。吾輩は猫である。名前はまだ無い。どこで生れたかとんと見当がつかぬ。何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。吾輩はここで始めて人間というものを見た。しかもあとで聞くとそれは書生という人間中で一番獰悪な種族であったそうだ。この書生というのは時々我々を捕えて煮て食うという話である。しかしその当時は何という考もなかったから別段恐しいとも思わなかった。ただ彼の掌に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。掌の上で少し落ちついて書生の顔を見たのがいわゆる人間というものの見始であろう。この時妙なものだと思った感じが今でも残っている。第一毛をもって装飾されべきはずの顔がつるつるしてまるで薬缶だ。",
+            "remarks": "サプライヤーからの伝言です",
+            "issuedUserNm": "senario01",
+            "attachmentFile": "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",
+            "attachmentFileNm": "signFile.png",
+            "status": "BDN発行済"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "result": "failure",
+    "messages": ["指定されたBDN発行者はマスタに存在しません。"]
+}

@@ -1,0 +1,29 @@
+{
+    "result": "success",
+    "datas": [
+        {
+            "bargeBoatId": "japark1",
+            "bargeBoatNm": "パーク船1"
+        },
+        {
+            "bargeBoatId": "japark2",
+            "bargeBoatNm": "船2_Draft_401"
+        },
+        {
+            "bargeBoatId": "japark3",
+            "bargeBoatNm": "船3_Draft_403"
+        },
+        {
+            "bargeBoatId": "japark4",
+            "bargeBoatNm": "船4_Inquirys_401"
+        },
+        {
+            "bargeBoatId": "japark5",
+            "bargeBoatNm": "船5_Inquirys_403"
+        },
+        {
+            "bargeBoatId": "japark6",
+            "bargeBoatNm": "船6_401_403"
+        }
+    ]
+}

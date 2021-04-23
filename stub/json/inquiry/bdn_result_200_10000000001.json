@@ -1,0 +1,67 @@
+{
+    "result": "success",
+    "datas": [
+        {
+            "bdnNo": "10000000001",
+            "issuedCompanyId": "BPC00001",
+            "issuedCompanyNm": "BDN発行株式会社1",
+            "issuedCompanyAddr1": "東京都中央区新富1",
+            "shipperCompanyId": "TS000085",
+            "shipperCompanyNm": "中部日本海運",
+            "shipId": "S00000000000001",
+            "shipNm": "小林丸",
+            "officialNo": "IMO0001",
+            "shipTel": "07057699664",
+            "portId": "P00005",
+            "portNm": "名古屋",
+            "deliveryDate": "2021-01-29",
+            "deliveryStartDateTime": "13:00",
+            "deliveryEndDateTime": "14:00",
+            "bargeCompanyId": "BC0025",
+            "bargeCompanyNm": "バージ会社A",
+            "entrustBargeCompanyId": "OS0030",
+            "entrustBargeCompanyNm": "委託会社A",
+            "bargeBoat1Id": "BS0000000000001",
+            "bargeBoat1Nm": "バージ船A",
+            "bargeBoat2Id": "BS0000000000002",
+            "bargeBoat2Nm": "バージ船B",
+            "eta": "2021-01-29 12:00",
+            "etb": "2021-01-29 13:00",
+            "etd": "2021-01-29 14:00",
+            "deliveryPlace": "K14",
+            "supplier_notes": "サプライヤーの特記事項",
+            "deliveryInstruction": "これは1件目補油指示です。全文取得できているか確認してください。",
+            "bunkerOilList": [
+                {
+                    "productId": "F0030",
+                    "productNm": "0.5A重油",
+                    "qty": "100.000",
+                    "unitId": "U1",
+                    "unitNm": "KL",
+                    "makerNm": "ENEOS",
+                    "shippingPlace": "名古屋"
+                },
+                {
+                    "productId": "F0031",
+                    "productNm": "C重油",
+                    "qty": "230.500",
+                    "unitId": "U1",
+                    "unitNm": "KL",
+                    "makerNm": "出光",
+                    "shippingPlace": "横浜"
+                }
+            ],
+            "lubeList": [],
+            "equipmentList": [],
+            "signFile": "binary_data",
+            "signedDateTime": "2021-01-29 14:30:02",
+            "signedLatitude": "35.01462172481255",
+            "signedLongitude": "136.83010733266994",
+            "approvalDate": "2021-01-29 14:45:33",
+            "attachmentFile": "",
+            "remark": "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへもまみむめもやゆよわをん",
+            "issuedUserNm": "山田太郎",
+            "status": "1"
+        }
+    ]
+}

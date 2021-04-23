@@ -1,0 +1,13 @@
+{
+    "result": "success",
+    "datas": [
+        {
+            "bargeBoatId": "BS0000000000001",
+            "bargeBoatNm": "バージ船1"
+        },
+        {
+            "bargeBoatId": "BS0000000000002",
+            "bargeBoatNm": "バージ船2"
+        }
+    ]
+}
