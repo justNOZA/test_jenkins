@@ -1,3 +1,0 @@
-C:\Users\inu\source\repos\bdn-stub\bdn-stub\obj\Debug\bdn-stub.njsprojAssemblyReference.cache
-C:\Users\inu\source\repos\bdn-stub\bdn-stub\obj\Debug\bdn-stub.njsproj.CoreCompileInputs.cache
-C:\Users\inu\source\repos\bdn-stub\bdn-stub\bin\Microsoft.NodejsTools.WebRole.dll
